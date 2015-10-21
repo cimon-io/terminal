@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'terminal/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "terminal-html"
+  spec.name          = "terminal"
   spec.version       = Terminal::VERSION
   spec.authors       = ["Keith Pitt", "Alexey Osipenko"]
   spec.email         = ["alexey@osipenko.in.ua", "me@keithpitt.com"]
