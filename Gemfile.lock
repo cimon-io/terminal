@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    terminal-html (0.0.1)
+    terminal (0.0.1)
       htmlentities (~> 4.3.3)
 
 GEM
@@ -14,7 +14,7 @@ GEM
     memory_profiler (0.0.4)
     method_profiler (2.0.1)
       hirb (>= 0.6.0)
-    rake (10.4.2)
+    rake (13.0.3)
     rspec (3.2.0)
       rspec-core (~> 3.2.0)
       rspec-expectations (~> 3.2.0)
@@ -39,7 +39,7 @@ DEPENDENCIES
   method_profiler
   rake
   rspec
-  terminal-html!
+  terminal!
 
 BUNDLED WITH
    1.10.6
